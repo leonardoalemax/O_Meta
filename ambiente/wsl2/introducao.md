@@ -15,7 +15,7 @@ Como disse anteriormente, o WSL funciona muito bem no meu contexto, Programaçã
 
 Alguns contextos, como programação mobile, não funcionam muito bem utilizando a WSL, programação desktop utilizando o Electron por exemplo também tem sua parcela de problemas usando esse ambiente.  
   
-Virtualização e Windows são bem famintos quanto a hardware, você vai precisar de muita, memoria, processamento e velocidade de acesso a disco, abaixo listo minhas configurações que vem funcionando muito bem com o WSL 2.  
+Virtualização e Windows são bem famintos quanto a hardware, você vai precisar de muita memoria, processamento e velocidade de acesso a disco, abaixo listo minhas configurações que vem funcionando muito bem com o WSL 2.  
 
 {% hint style="info" %}
 * PLACA MÃE ASUS TUF B360M-PLUS GAMING/BR
