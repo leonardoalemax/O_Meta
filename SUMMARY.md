@@ -4,13 +4,17 @@
 
 ## Ferramentas
 
-* [Como instalar e usar ASDF na WLS 2](ferramentas/untitled.md)
-
 ## Ambiente
 
-* [Untitled](ambiente/untitled.md)
+* [WSL 2](ambiente/wsl2/README.md)
+  * [Como instalar e usar ASDF na WLS 2](ambiente/wsl2/untitled-1.md)
+  * [Docker na WLS 2](ambiente/wsl2/untitled.md)
 
 ## TypeScript
 
 * [Untitled](typescript/untitled.md)
+
+---
+
+* [index](untitled.md)
 
