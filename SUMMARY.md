@@ -7,6 +7,7 @@
 ## Ambiente
 
 * [WSL 2](ambiente/wsl2/README.md)
+  * [Introdução](ambiente/wsl2/introducao.md)
   * [Como instalar e usar ASDF na WLS 2](ambiente/wsl2/untitled-1.md)
   * [Docker na WLS 2](ambiente/wsl2/untitled.md)
 
